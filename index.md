@@ -43,6 +43,13 @@ Also it is important to know that it can be a bit laggy at times so sometimes th
 
 You can use the [editor on GitHub](https://github.com/HA-TTP-Work/Assignment-1_TTP_static/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+
+You can use the [Normal Page](https://github.com/HA-TTP-Work/Assignment-1_TTP_static/index.html) to maintain and preview the content for your website in Markdown files.
+
+
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 This is a test to see if things will change.
