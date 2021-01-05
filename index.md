@@ -32,6 +32,8 @@ By selecting a theme a page will automatically be created that you can edit to a
 
 This gives a great resource for sprucing up the website.
 
+
+Also it is important to know that it can be a bit laggy at times so sometimes the changes you make will not be reflected immediately.
   
   
  
